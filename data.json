@@ -1,0 +1,22 @@
+[
+  {
+    "id": "demon-slayer-123456",
+    "title": "Клинок, рассекающий демонов",
+    "description": "История о Танджиро Камадо, который становится истребителем демонов после того, как его семья была убита, а сестра превращена в демона.",
+    "cover": "https://example.com/demon-slayer.jpg",
+    "year": "2019",
+    "episodes": "26",
+    "rating": "8.7",
+    "watchUrl": "https://Akrifis.github.io/watch/test.html"
+  },
+  {
+    "id": "jujutsu-kaisen-789012",
+    "title": "Магическая битва",
+    "description": "Юджи Итадори присоединяется к тайной организации магов, чтобы победить проклятия и спасти мир.",
+    "cover": "https://example.com/jujutsu.jpg",
+    "year": "2020",
+    "episodes": "24",
+    "rating": "8.6",
+    "watchUrl": "https://ваш-логин.github.io/anime-pages/jujutsu-kaisen-789012.html"
+  }
+]
